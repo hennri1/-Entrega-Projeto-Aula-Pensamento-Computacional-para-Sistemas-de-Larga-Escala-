@@ -1,4 +1,6 @@
--⚠️ Desafios Identificados-
+- Desafios Identificados-
+
+
     Escalabilidade horizontal
     Garantir que o sistema suporte crescimento com múltiplos servidores.
     Consistência de dados
