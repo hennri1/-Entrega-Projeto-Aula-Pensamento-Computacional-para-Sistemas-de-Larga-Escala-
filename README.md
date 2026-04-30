@@ -35,20 +35,3 @@ Em vez de trabalhar com sprints fixas, o projeto utiliza Kanban, focando em entr
     GitHub Projects (Kanban Board)
     Issues (controle de tarefas)
     Git (versionamento de código)
-
-
-            [Paciente]
-                |
-   -----------------------------
-   |            |             |
-Cadastrar   Agendar       Visualizar
-Conta       Consulta      Histórico
-   |
-Atualizar Dados
-
-          [Nutricionista]
-                |
-   -----------------------------
-   |            |             |
-Gerenciar   Criar Plano    Visualizar
-Pacientes   Alimentar      Agenda
